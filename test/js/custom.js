@@ -244,7 +244,7 @@ jQuery(document).ready(function($) {
 					   showContentOnhover : true,
 					   hideContent        : false,
 					   contentPosition    : '',
-					   timeout            : 5200,
+					   timeout            : 5500,
 					   pause              : false,
 					   pauseOnHover       : true,
 					   hideBottomButtons  : false,

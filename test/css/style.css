@@ -628,7 +628,7 @@ input.placeholder, textarea.placeholder { color: #b0b0b0; }
 		}
 
 		.slogan {
-			font-size: 23px;
+			font-size: 22px;
 			margin-bottom: 40px;
 		}
 
@@ -1643,8 +1643,8 @@ input.placeholder, textarea.placeholder { color: #b0b0b0; }
 			.projects-carousel img, #portfolio-items article img {
 				background-color: #fff;
 				margin: 0 auto -5px;
-				filter: alpha(opacity=70); /* Fallback for old IE */
-				opacity: 0.7;
+				filter: alpha(opacity=75); /* Fallback for old IE */
+				opacity: 0.75;
 			}
 
 			.no-js .projects-carousel img, .no-js #portfolio-items article img { margin-bottom: 0; }
