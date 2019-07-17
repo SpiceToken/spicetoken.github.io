@@ -7,7 +7,7 @@
 >
 	<g id="Background">
 		<rect visibility="hidden" x="0" y="0" width="220" height="140" stroke="#bbbbbb" stroke-width="1" fill="none"/>
-		<text visibility="hidden" x="8" y="140" width="204" fill="#eb1e26" style="font-weight: bold; font-size: 40px; font-family: Source Code Pro; color: #eb1e26; text-align: center; "><tspan><![CDATA[Spice]]></tspan><tspan style="color: #006633; "><![CDATA[bot]]></tspan></text>
+		<text visibility="hidden" x="8" y="140" width="204" fill="#eb1e26" style="font-weight: bold; font-size: 40px; font-family: Source Code Pro; color: #eb1e26; text-align: center; "><tspan><![CDATA[spice]]></tspan><tspan style="color: #006633; "><![CDATA[bot]]></tspan></text>
 		<g>
 			<g>
 				<path d="M 91.7048 9.0761 L 103.7866 9 L 109.8149 25.025 L 97.7237 25.0876 L 91.7048 9.0761 Z" fill="#006633"/>
