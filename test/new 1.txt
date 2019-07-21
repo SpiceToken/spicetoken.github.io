@@ -1,0 +1,200 @@
+	<h6 class="section-title">Latest news (ignore this for now)</h6>
+
+	<ul class="post-carousel">
+
+		<li>
+
+			<a href="https://cryptophyl.com" target="_blank">
+				<img src="img/placeholders/news_cryptophyl_closed_beta.png" alt="" class="entry-image">
+			</a>
+
+			<div class="entry-meta">
+
+				<a href="https://cryptophyl.com" target="_blank">
+					<span class="post-format">Permalink</span>
+				</a>
+
+				<span class="date">July 12 2019</span>
+
+			</div><!-- end .entry-meta -->
+
+			<div class="entry-body">
+
+				<a href="https://cryptophyl.com" target="_blank">
+					<h5 class="title">Cryptophyl.com launches in closed beta with great success!</h5>
+				</a>
+
+				<p>Lorem ipsum dolor sit amet nec, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque.</p>
+					
+			</div><!-- end .entry-body -->
+
+		</li>
+
+		<li>
+
+			<div class="image-gallery-slider">
+
+				<ul>
+
+					<li>
+						<a href="single-post.html">
+							<img src="img/placeholders/blog-post-2.jpg" alt="" class="entry-image">
+						</a>
+					</li>
+
+					<li>
+						<a href="single-post.html">
+							<img src="img/placeholders/blog-post-2.jpg" alt="" class="entry-image">
+						</a>
+					</li>
+
+					<li>
+						<a href="single-post.html">
+							<img src="img/placeholders/blog-post-2.jpg" alt="" class="entry-image">
+						</a>
+					</li>
+
+				</ul>
+				
+			</div><!-- end .image-gallery-slider -->
+
+			<div class="entry-meta">
+
+				<a href="single-post.html">
+					<span class="post-format gallery">Permalink</span>
+				</a>
+
+				<span class="date">Sep 17 2011</span>
+
+			</div><!-- end .entry-meta -->
+
+			<div class="entry-body">
+
+				<a href="single-post.html">
+					<h5 class="title">Bringing iMessage to the Desktop</h5>
+				</a>
+
+				<p>Lorem ipsum dolor sit amet nec, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque.</p>
+					
+			</div><!-- end .entry-body -->
+
+		</li>
+
+		<li>
+<iframe width="220" height="125" src="" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+			<div class="entry-meta">
+
+				<a href="single-post.html">
+					<span class="post-format video">Permalink</span>
+				</a>
+
+				<span class="date">Sep 17 2011</span>
+
+			</div><!-- end .entry-meta -->
+
+			<div class="entry-body">
+
+				<a href="single-post.html">
+					<h5 class="title">Some Amazing Video Clip</h5>
+				</a>
+
+				<p>Lorem ipsum dolor sit amet nec, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque.</p>
+					
+			</div><!-- end .entry-body -->
+
+		</li>
+
+		<li>
+
+			<div class="entry-meta">
+
+				<a href="single-post.html">
+					<span class="post-format link">Permalink</span>
+				</a>
+
+				<span class="date">Sep 17 2011</span>
+
+			</div><!-- end .entry-meta -->
+
+			<div class="entry-body">
+
+				<a href="single-post.html">
+					<h5 class="title">Visit our Sister Site!</h5>
+				</a>
+
+				<p>Lorem ipsum dolor sit amet nec, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque.</p>
+					
+			</div><!-- end .entry-body -->
+
+		</li>
+
+		<li>
+
+			<audio class="entry-audio" controls>
+				<source src="" type="audio/ogg" />
+			</audio>
+
+			<div class="entry-meta">
+
+				<a href="single-post.html">
+					<span class="post-format audio">Permalink</span>
+				</a>
+
+				<span class="date">Sep 17 2011</span>
+
+			</div><!-- end .entry-meta -->
+
+			<div class="entry-body">
+
+				<p>Lorem ipsum dolor sit amet nec, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque.</p>
+					
+			</div><!-- end .entry-body -->
+
+		</li>
+
+		<li>
+
+			<div class="entry-meta">
+
+				<a href="single-post.html">
+					<span class="post-format quote">Permalink</span>
+				</a>
+
+				<span class="date">Sep 17 2011</span>
+
+			</div><!-- end .entry-meta -->
+
+			<div class="entry-body">
+				
+				<blockquote class="simple">
+					<p>I’ve decided on the photos that I would like you to use on the website. They are attached to this email. Please send them back when you’re finished as they are my only copies. Thanks!</p>
+					<small>- Seriously...</small>
+				</blockquote>
+					
+			</div><!-- end .entry-body -->
+
+		</li>
+
+		<li>
+
+			<div class="entry-meta">
+
+				<a href="single-post.html">
+					<span class="post-format aside">Permalink</span>
+				</a>
+
+				<span class="date">Sep 17 2011</span>
+
+			</div><!-- end .entry-meta -->
+
+			<div class="entry-body">
+
+			<p><strong>This is an aside post format.</strong> Lorem ipsum dolor sit amet nec, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. </p>
+					
+			</div><!-- end .entry-body -->
+
+		</li>
+
+	</ul><!-- end .post-carousel -->
