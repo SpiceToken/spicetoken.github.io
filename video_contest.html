@@ -52,6 +52,15 @@
 </head>
 <body>
 
+<div id='woobox-root'></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "https://woobox.com/js/plugins/woo.js";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'woobox-sdk'));</script>
+
 <header id="header" class="container clearfix">
 
 	<a href="./" id="logo">
@@ -61,7 +70,7 @@
 	<nav id="main-nav">
 		
 		<ul>
-			<li class="current">
+			<li>
 				<a href="./" data-description="All starts here">Home</a>
 			</li>
 			<li>
@@ -89,7 +98,7 @@
 					<li><a href="https://t.me/spicetoken" target="_blank">Spice Telegram</a></li>
 				</ul>
 			</li>
-			<li>
+			<li class="current">
 				<a href="#" data-description="Go in depth">More Info</a>
 				<ul>
 					<li><a href="https://simpleledger.info/#token/4de69e374a8ed21cbddd47f2338cc0f479dc58daa2bbe11cd604ca488eca0ddf" target="_blank">Token id / Genesis Info</a></li>
